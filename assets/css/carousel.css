@@ -4,7 +4,8 @@
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
+  color: white;
+  background-color: black;
 }
 
 
@@ -50,7 +51,7 @@ body {
 .carousel {
   height: 100vh;
   margin-bottom: 60px;
-  background-color: #0B0B0C;
+  background-color: black;
   background-image: url("../images/logo.jpg");
   background-repeat: no-repeat;
   background-position: center;
